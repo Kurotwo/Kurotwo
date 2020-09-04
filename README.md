@@ -6,7 +6,7 @@
 - 🌞 My hobbies include reading, cooking, and photography 
 
 ### Spotify Playing 🎧
-[<img src="https://novatorem.kurotwo.vercel.app/api/spotify-playing" alt="Kurotwo's Spotify Playing" width="350" />](https://open.spotify.com/user/12168333388)
+[![Spotify](https://novatorem.kurotwo.vercel.app/api/spotify)](https://open.spotify.com/user/12168333388)
 
 ### Connect with me:
 
