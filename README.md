@@ -1,6 +1,6 @@
-# Heya, I'm Kurt Tanting, an aspiring data scientist 🤖
+### Heya, I'm Kurt Tanting, an aspiring data scientist 🤖
 
-## I'm currently a sophomore computer science student in DLSU
+- 📚 I'm currently a sophomore computer science student in DLSU
 - 💻 I have experience in web development tech such as node.js and Vue.js
 - ⭐ One of my goals is to make a impactful machine learning project
 - 🌞 My hobbies include reading, cooking, and photography 
