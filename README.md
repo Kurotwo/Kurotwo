@@ -33,17 +33,14 @@
 <br />
 
 ---
+<summary>:zap: Github Stats</summary>
 
-<details>
-  <summary>:zap: Github Stats</summary>
+<img align="left" alt="Kurotwo's Github Stats" src="https://github-readme-stats-chi-five.vercel.app/api?username=kurotwo&show_icons=true&hide_border=true" />
 
-  <img align="left" alt="Kurotwo's Github Stats" src="https://github-readme-stats-chi-five.vercel.app/api?username=kurotwo&show_icons=true&hide_border=true" />
+<!--START_SECTION:waka-->
 
-  <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-  <!--END_SECTION:waka-->
-
-</details>
 
 [twitter]: https://twitter.com/LoloKurting
 [instagram]: https://www.instagram.com/vissariown/
