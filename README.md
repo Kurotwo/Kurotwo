@@ -1,4 +1,4 @@
-### Heya, I'm Kurt Tanting, an aspiring data scientist 🤖
+### Heya, I'm Kurt Tanting
 
 - 💻 I have experience in web development tech such as node.js and Vue.js
 - 🌞 My hobbies include reading, cooking, and photography 
